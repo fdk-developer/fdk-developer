@@ -1,11 +1,19 @@
-![alt text](image-1.png)
+<!-- ![alt text](image-2.png) -->
+
+![alt text](image-3.png)
 
 ## Bem-vindos 👋
 
-👽 Olá, me chamo Francisco David Kuka!
+👽 Olá, pode me chamar de Chico!
 
+💬 Desenvolvedor, Professor, Empresário e Pai, mais informações no link abaixo: 
 
-![fdk-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdk-developer&show_icons=true&theme=radical)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/franciscodavidkuka/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    
+</div>
 
 <!--
 **fdk-developer/fdk-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
