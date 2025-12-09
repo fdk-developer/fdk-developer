@@ -1,6 +1,6 @@
 <!-- ![alt text](image-2.png) -->
 
-![alt text](image-3.png)
+<img src="https://github.com/fdk-developer/fdk-developer/blob/main/image-3.png" style="height:250px;" align="center">
 
 ## Bem-vindos 👋
 
