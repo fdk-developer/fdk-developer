@@ -1,4 +1,11 @@
-## Olá 👋
+![alt text](image-1.png)
+
+## Bem-vindos 👋
+
+👽 Olá, me chamo Francisco David Kuka!
+
+
+![fdk-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdk-developer&show_icons=true&theme=radical)
 
 <!--
 **fdk-developer/fdk-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
