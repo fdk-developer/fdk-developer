@@ -6,7 +6,7 @@
 
 👽 Olá, pode me chamar de Chico!
 
-💬 Desenvolvedor, Professor, Empresário e Pai, mais informações no link abaixo: 
+💬 Desenvolvedor, Professor, Empresário e Pai, mais informações no meu linkedin: 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/franciscodavidkuka/L">
