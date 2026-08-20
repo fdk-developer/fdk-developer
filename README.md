@@ -80,12 +80,12 @@ Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet** (proved
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fdk-developer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=00A8E8&title_color=00A8E8" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdk-developer&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00A8E8" alt="top-langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fdk-developer&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=00A8E8&title_color=00A8E8&cache_seconds=86400" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdk-developer&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00A8E8&cache_seconds=86400" alt="top-langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fdk-developer&hide_border=true&theme=tokyonight&ring=00A8E8&fire=00A8E8&currStreakLabel=00A8E8" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=fdk-developer&hide_border=true&theme=tokyonight&ring=00A8E8&fire=00A8E8&currStreakLabel=00A8E8" alt="streak" />
 
 </div>
 
