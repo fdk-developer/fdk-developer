@@ -91,37 +91,11 @@ Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet** (proved
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fdk-developer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
-
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdk-developer&bg_color=1a1b27&color=00a8e8&line=00a8e8&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-<!-- Substitua REPO pelos nomes reais que quiser fixar -->
-<div align="center">
-
-<a href="https://github.com/fdk-developer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fdk-developer&repo=REPO&hide_border=true&theme=tokyonight&title_color=00A8E8" alt="repo-1" />
-</a>
-<a href="https://github.com/fdk-developer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fdk-developer&repo=REPO&hide_border=true&theme=tokyonight&title_color=00A8E8" alt="repo-2" />
-</a>
 
 </div>
 
