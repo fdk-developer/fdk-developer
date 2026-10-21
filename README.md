@@ -24,13 +24,17 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet** (provedor de internet) e construo produtos de ponta a ponta — do modelo de dados no banco até a interface que o usuário toca e a infra necessária para rodar.
+Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet**, provedor de internet, e da **Nova Faxina Serviço Ltda**, empresa de tecnologia e serviços que conecta clientes a profissionais de limpeza.
+
+Transformo ideias em produtos digitais completos — da modelagem do banco de dados e desenvolvimento de APIs à experiência do usuário, infraestrutura e operação em produção.
 
 - 🧠 Foco em **Java / Spring Boot** no backend e **React** no frontend
-- 🏗️ Arquitetura em monorepo, migrations versionadas e APIs bem desenhadas
-- 🤖 Explorando **automação e IA** aplicada a atendimento e processos internos
-- 🎓 Também ensino — gosto de deixar o "porquê" claro, não só o "como"
-- 📫 Fala comigo no [LinkedIn](https://www.linkedin.com/in/franciscodavidkuka)
+- 🏗️ Arquitetura de software, monorepos, APIs REST e migrações versionadas
+- 🧹 À frente da **Nova Faxina**, desenvolvendo soluções para modernizar a contratação de serviços de limpeza
+- 🌐 Gestão da **FDKnet**, unindo telecomunicações, infraestrutura e tecnologia
+- 🤖 Explorando **automação e IA** aplicada ao atendimento e processos empresariais
+- 🎓 Também ensino — gosto de deixar o **"porquê"** claro, não só o **"como"**
+- 📫 Fala comigo no [LinkedIn](https://www.linkedin.com/)
 
 ---
 
