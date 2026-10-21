@@ -24,7 +24,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet**, provedor de internet, e da **Nova Faxina Serviço Ltda**, empresa de tecnologia e serviços que conecta clientes a profissionais de limpeza.
+Desenvolvedor **Full-Stack**, professor e empresário. CEO da **FDKnet**, provedor de internet, e da **Nova Faxina Serviços**, empresa de tecnologia e serviços que conecta clientes a profissionais de limpeza.
 
 Transformo ideias em produtos digitais completos — da modelagem do banco de dados e desenvolvimento de APIs à experiência do usuário, infraestrutura e operação em produção.
 
